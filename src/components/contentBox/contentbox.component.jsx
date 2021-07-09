@@ -142,7 +142,11 @@ export const ContentBox = () => {
             alt="Dark Date Icon"
           />
         ) : (
-          <DateIcon src={DateIconLight} alt="Light Date Icon" />
+          <DateIcon
+            width={windowDimensions.width}
+            src={DateIconLight}
+            alt="Light Date Icon"
+          />
         )}
         <DateText darkTheme={darkTheme}>Jan 6th, 7th, 8th</DateText>
       </DateContainer>
