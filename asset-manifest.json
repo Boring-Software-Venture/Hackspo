@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Hackspo/static/css/main.d56a6462.chunk.css",
+    "main.css": "/Hackspo/static/css/main.0f9e0350.chunk.css",
     "main.js": "/Hackspo/static/js/main.c845cf05.chunk.js",
     "main.js.map": "/Hackspo/static/js/main.c845cf05.chunk.js.map",
     "runtime-main.js": "/Hackspo/static/js/runtime-main.d300b5f2.js",
@@ -10,7 +10,7 @@
     "static/js/3.ec81546e.chunk.js": "/Hackspo/static/js/3.ec81546e.chunk.js",
     "static/js/3.ec81546e.chunk.js.map": "/Hackspo/static/js/3.ec81546e.chunk.js.map",
     "index.html": "/Hackspo/index.html",
-    "static/css/main.d56a6462.chunk.css.map": "/Hackspo/static/css/main.d56a6462.chunk.css.map",
+    "static/css/main.0f9e0350.chunk.css.map": "/Hackspo/static/css/main.0f9e0350.chunk.css.map",
     "static/js/2.9eb047d5.chunk.js.LICENSE.txt": "/Hackspo/static/js/2.9eb047d5.chunk.js.LICENSE.txt",
     "static/media/darkBackground.f0d8ae11.png": "/Hackspo/static/media/darkBackground.f0d8ae11.png",
     "static/media/darkLogo.90070198.png": "/Hackspo/static/media/darkLogo.90070198.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.d300b5f2.js",
     "static/js/2.9eb047d5.chunk.js",
-    "static/css/main.d56a6462.chunk.css",
+    "static/css/main.0f9e0350.chunk.css",
     "static/js/main.c845cf05.chunk.js"
   ]
 }
