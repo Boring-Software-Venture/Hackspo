@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "/Hackspo/static/css/main.d56a6462.chunk.css",
-    "main.js": "/Hackspo/static/js/main.47526f82.chunk.js",
-    "main.js.map": "/Hackspo/static/js/main.47526f82.chunk.js.map",
-    "runtime-main.js": "/Hackspo/static/js/runtime-main.6cdf2540.js",
-    "runtime-main.js.map": "/Hackspo/static/js/runtime-main.6cdf2540.js.map",
-    "static/js/2.7e3f6191.chunk.js": "/Hackspo/static/js/2.7e3f6191.chunk.js",
-    "static/js/2.7e3f6191.chunk.js.map": "/Hackspo/static/js/2.7e3f6191.chunk.js.map",
-    "static/js/3.3d0c8802.chunk.js": "/Hackspo/static/js/3.3d0c8802.chunk.js",
-    "static/js/3.3d0c8802.chunk.js.map": "/Hackspo/static/js/3.3d0c8802.chunk.js.map",
+    "main.js": "/Hackspo/static/js/main.c845cf05.chunk.js",
+    "main.js.map": "/Hackspo/static/js/main.c845cf05.chunk.js.map",
+    "runtime-main.js": "/Hackspo/static/js/runtime-main.d300b5f2.js",
+    "runtime-main.js.map": "/Hackspo/static/js/runtime-main.d300b5f2.js.map",
+    "static/js/2.9eb047d5.chunk.js": "/Hackspo/static/js/2.9eb047d5.chunk.js",
+    "static/js/2.9eb047d5.chunk.js.map": "/Hackspo/static/js/2.9eb047d5.chunk.js.map",
+    "static/js/3.ec81546e.chunk.js": "/Hackspo/static/js/3.ec81546e.chunk.js",
+    "static/js/3.ec81546e.chunk.js.map": "/Hackspo/static/js/3.ec81546e.chunk.js.map",
     "index.html": "/Hackspo/index.html",
     "static/css/main.d56a6462.chunk.css.map": "/Hackspo/static/css/main.d56a6462.chunk.css.map",
-    "static/js/2.7e3f6191.chunk.js.LICENSE.txt": "/Hackspo/static/js/2.7e3f6191.chunk.js.LICENSE.txt",
+    "static/js/2.9eb047d5.chunk.js.LICENSE.txt": "/Hackspo/static/js/2.9eb047d5.chunk.js.LICENSE.txt",
     "static/media/darkBackground.f0d8ae11.png": "/Hackspo/static/media/darkBackground.f0d8ae11.png",
+    "static/media/darkLogo.90070198.png": "/Hackspo/static/media/darkLogo.90070198.png",
     "static/media/lightBackground.ad71f889.png": "/Hackspo/static/media/lightBackground.ad71f889.png",
     "static/media/lightLogo.342204b4.png": "/Hackspo/static/media/lightLogo.342204b4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6cdf2540.js",
-    "static/js/2.7e3f6191.chunk.js",
+    "static/js/runtime-main.d300b5f2.js",
+    "static/js/2.9eb047d5.chunk.js",
     "static/css/main.d56a6462.chunk.css",
-    "static/js/main.47526f82.chunk.js"
+    "static/js/main.c845cf05.chunk.js"
   ]
 }
